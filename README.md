@@ -1,6 +1,6 @@
 # LM18
 
-#An Open-source Neuroprosthesis for Restoring Hand Function: LibreMano One Aid 
+# An Open-source Neuroprosthesis for Restoring Hand Function: LibreMano One Aid 
 
 Aggregation of Repositories
 
